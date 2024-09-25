@@ -2,6 +2,14 @@
 
 **TrackMyFinances** is an open-source project designed to help users track and manage their financial liabilities, such as credit card payments and balances, using the **Plaid API**, **Google Tasks**, and **Google Secret Manager**. The project automates the creation of tasks for tracking payments, while ensuring the secure storage of access tokens using **Google Cloud** tools.
 
+## How It Works
+
+**TrackMyFinances** connects to your financial accounts via the **Plaid API**, retrieves data such as balances and due dates, and creates corresponding tasks in **Google Tasks**. The project is configured to check for payment activity daily and updates task statuses accordingly. 
+
+## Why This Project?
+
+Managing finances across multiple institutions can be challenging. This tool aims to automate much of that process, ensuring that you stay on top of your payments, avoid late fees, and have a clear view of your financial status at all times.
+
 ## Features
 
 - **Secure Token Management**: Access tokens from Plaid are securely stored in **Google Secret Manager**, ensuring sensitive data is protected.
