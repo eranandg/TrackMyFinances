@@ -16,13 +16,13 @@ Thank you for your interest in contributing to **TrackMyFinances**! This guide w
    - Provide a detailed description of the changes, the issue it solves (if applicable), and any steps required to test the changes.
    
 5. **Code Review Process**: 
-   - All pull requests require approval from the repository code owner (@eranandg) before they can be merged.
+   - All pull requests require approval from the repository code owner (@jmxenhancer) before they can be merged.
    - **Require Conversation Resolution**: All conversations on the pull request must be resolved before merging.
    - PRs may require feedback or revisions, so make sure to address comments and push updates to the same branch.
 
 6. **Branch Protection Rules**:
    - **Pull Requests Required**: Direct commits to the `main` branch are not allowed. All changes must be made through pull requests.
-   - **Code Owner Approval**: Since @eranandg is the code owner, all pull requests must be reviewed and approved by @eranandg.
+   - **Code Owner Approval**: Since @jmxenhancer is the code owner, all pull requests must be reviewed and approved by @jmxenhancer.
    - **Require Conversation Resolution**: All conversations on a PR must be resolved before it is allowed to merge.
    - **Up-to-Date Branch**: The branch must be up-to-date with the latest changes from `main` to avoid conflicts before merging.
 
@@ -52,6 +52,6 @@ By contributing to TrackMyFinances, you agree that your contributions will be li
 
 ## Getting Help
 
-If you have any questions or need help with the contribution process, feel free to open an issue or reach out to @eranandg on GitHub.
+If you have any questions or need help with the contribution process, feel free to open an issue or reach out to @jmxenhancer on GitHub.
 
 Thank you for contributing to **TrackMyFinances**!
