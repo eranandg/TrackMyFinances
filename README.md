@@ -25,3 +25,7 @@ For complete setup instructions, including how to configure your Google Cloud pr
 
 - [Wiki: Full Setup Guide](https://github.com/your-repo/wiki)
 - [Plaid API Documentation](https://plaid.com/docs/)
+
+## License
+
+TrackMyFinances is licensed under the [MIT License](./LICENSE). You are free to use, modify, and distribute this project, provided that the original license is included in any substantial copies or derivatives of the code. See the [LICENSE](./LICENSE) file for more details.
